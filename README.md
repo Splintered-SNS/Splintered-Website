@@ -11,4 +11,4 @@ Splintered was created with the objective of promoting mental health awareness. 
 * Information about common conditions 
 
 # Website URL
-The website can be viewed [here]()!
+The website can be viewed [here](https://splintered-sns.github.io/Splintered-Website/)!
